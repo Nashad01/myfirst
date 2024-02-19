@@ -13,6 +13,9 @@ function App() {
       {/* <Sample/> */}
       {/* <NavScrollExample/> */}
       <ColorSchemesExample/>
+      <div>
+        Nashad Jilani
+      </div>
       <div class='container'>
       <div className='row my-4 mx-4'>
       <div className='col-lg-4'>
